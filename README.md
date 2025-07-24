@@ -28,6 +28,6 @@ Here are a few projects I'm proud of. You can find their repositories pinned on 
 
 #### 📫 How to Reach Me
 
--   **Portfolio:** [amalbenny.vercel.app](https://amalbenny.vercel.app/)
--   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/me/)
+-   **Portfolio:** [My Portfolio](https://amalbenny.vercel.app/)
+-   **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/me/)
 -   **Email:** [amalbennyjoseph11@gmail.com](mailto:amalbennyjoseph11@gmail.com)
