@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there 👋, I'm Amal Benny
 
-<!--
-**amaltechh/amaltechh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack Developer specializing in the **Web Development** and **Flutter**. I love building applications and websites from the ground up and turning ideas into functional, user-friendly products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 My Tech Stack
+
+- **Frontend:** React, HTML5, CSS3, Material-UI
+- **Backend:** Node.js,
+- **Database:** MongoDB, Firebase
+- **Mobile:** Flutter, Dart
+- **Tools:** Git, VS Code,
+
+---
+
+#### 🔭 My Projects
+
+Here are a few projects I'm proud of. You can find their repositories pinned on my profile!
+
+-   **healthsnap:** A simple health platform to simplify health needs (demo version), built with HTML.
+-   **travel:** An application developed using Dart.
+-   **baby:** A template for an online baby products shopping website, created with HTML.
+
+
+*Check them out in my repositories below!*
+
+---
+
+#### 📫 How to Reach Me
+
+- **Portfolio:** (https://amalbenny.vercel.app/)
+- **LinkedIn:** (https://www.linkedin.com/in/me/)
+- **Email:** [amalbennyjoseph11@gmail.com]
+
