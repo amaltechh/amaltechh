@@ -12,7 +12,7 @@ Hi there 👋, I'm Amal Benny<br>I'm a passionate Full-Stack Developer specializ
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amaltechh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amaltechh&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaltechh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)\
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaltechh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
