@@ -14,13 +14,14 @@ Hi there 👋, I'm Amal Benny<br>I'm a passionate Full-Stack Developer specializ
 <!-- GitHub Profile Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=amaltechh&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="Amal's GitHub Stats" height="200"/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=amaltechh&theme=blue_navy&hide_border=false" alt="Amal's GitHub Streak" height="200"/>
+<!-- GitHub Streak Stats (with cache-busting query) -->
+<img src="https://streak-stats.demolab.com?user=amaltechh&theme=blue_navy&hide_border=false&date=20250807" alt="Amal's GitHub Streak" height="200"/>
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaltechh&theme=blue_navy&hide_border=false&layout=compact" alt="Top Languages" height="200"/>
 
 </div>
+
 
 
 ### ✍️ Random Dev Quote
