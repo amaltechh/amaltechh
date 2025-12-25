@@ -1,4 +1,13 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Amal%20Benny%20Joseph&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/amaltechh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+%2F+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 Hi there 👋, I'm Amal Benny<br>I'm a passionate Full-Stack Developer specializing in Web Development and Flutter. I love building applications and websites from the ground up and turning ideas into functional, user-friendly products.
 
 
